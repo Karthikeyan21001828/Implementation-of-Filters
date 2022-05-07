@@ -168,6 +168,7 @@ ii) Using Weighted Averaging Filter
 </br>
 
 iii) Using Gaussian Filter
+
 ![op](gaussianblurring.png)
 </br>
 
